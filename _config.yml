@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Adam Sbahi / Home"
+title                    : "Adam Sbahi / Home "
 title_separator          : "-"
 name                     : &name "Adam Sbahi"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,14 +23,14 @@ repository               : "https://github.com/AdamSbahi/AdamSbahi.github.io/tre
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Adam Sbahi"
+  avatar           : "profilepic.png"
+  name             : "Adam Sbahi "
   pronouns         : # example: "she/her"  
-  bio              : "Current Student at Virginia Tech studying Computer Engineering"
-  location         : "Blacksburg"
-  employer         : "Virginia Tech"
+  bio              : "Current Student at Virginia Tech studying Computer Engineering "
+  location         : "Blacksburg "
+  employer         : "Virginia Tech "
   uri              : # URL
-  email            : "adamsbahi@vt.edu" 
+  email            : "adamsbahi@vt.edu " 
 
   # Academic websites
   academia         : # URL
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "AdamSbahi"
+  github           : "AdamSbahi "
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : https://www.linkedin.com/in/adam-sbahi-28aaab2a8
+  linkedin         : "https://www.linkedin.com/in/adam-sbahi-28aaab2a8"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
