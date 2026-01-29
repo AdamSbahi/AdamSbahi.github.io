@@ -1,64 +1,36 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Adam Sbahi",
+    "email": "adamsbahi@vt.edu",
     "phone": "",
     "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "summary": "Currently studying as a Computer Engineer Specializing in Controls, Robotics, and Autonomy at Virginia Tech",
     "location": {
       "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "postalCode": "24060",
+      "city": "Blacksburg",
+      "countryCode": "USA",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "network": "Github",
+        "username": "AdamSbahi",
+        "url": "https://github.com/AdamSbahi"
       },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
-      }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "Virgnia Tech",
+      "area": "B.S in Computer Engineering",
+      "studyType": "Controls, Robotics, and Autonomy ",
+      "startDate": "2023",
+      "endDate": "2027",
       "gpa": null,
       "courses": []
     },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
-    }
   ],
   "skills": [],
   "languages": [],
